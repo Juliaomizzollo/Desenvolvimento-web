@@ -6,17 +6,17 @@
     <title>Julia Leite Omizzollo</title>
 </head>
 <body>
-    <section>
+    <header>
         <h1>Julia Leite Omizzollo</h1>
        
         <h2>Contato</h2>
+       
         <p><strong>Email:</strong> omizzollojulia@gmail.com</p>
         <p><strong>Telefone:</strong> (63) 99273-1585</p>
         <p><strong>GitHub:</strong> <a href="https://github.com/Juliaomizzollo" target="_blank">https://github.com/Juliaomizzollo</a></p>
-    </section>
-    
+    </header>
 </body>
-<p> ________________________________________________________________________________________________________________________________________________________</p>
+<p>_________________________________________________________________________________________________________________________________________________________________________________________
 <article> Olá, busco <i>oportunidades de estágio na área de desenvolvimento web</i> para aplicar e expandir meus conhecimentos técnicos e habilidades de programação. </article>
 <section>
     <h3>Tecnologias Web</h3>
@@ -27,17 +27,17 @@
     <p><strong><li>Editores de texto:</strong>Visual Studio Code</li></p>
 </ol>
 </section>
-
 <section>
-    <h2>Idiomas</h2>
+    <h3>Idiomas</h3>
+
 
     <p><li>Português (nativo)</li></p>
     <p><li>Inglês (avançado)</li></p>
     <p><li>Espanhol (básico)</li></p>
 </section>
-
 <section>
     <h3>Projetos</h3>
+
 
   <dl>
 <dt>Projeto Coleta Seletiva</dt>
