@@ -1,46 +1,39 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Julia Leite Omizzollo</title>
-</head>
-<body>
-    <header>
-        <h1>Julia Leite Omizzollo</h1>
-       
-        <h2>Contato</h2>
-       
-        <p><strong>Email:</strong> omizzollojulia@gmail.com</p>
-        <p><strong>Telefone:</strong> (63) 99273-1585</p>
-        <p><strong>GitHub:</strong> <a href="https://github.com/Juliaomizzollo" target="_blank">https://github.com/Juliaomizzollo</a></p>
-    </header>
-</body>
-<p>_________________________________________________________________________________________________________________________________________________________________________________________
-<article> Olá, busco <i>oportunidades de estágio na área de desenvolvimento web</i> para aplicar e expandir meus conhecimentos técnicos e habilidades de programação. </article>
-<section>
-    <h3>Tecnologias Web</h3>
-<ol>
-    <p><strong><li>Linguagens:</strong> HTML e Python</li></p>
-    <p><strong><li>Frameworks</strong> Front-end: React.js, Vue.jsn</li></p>
-    <p><strong><li>Ferramenta de Controle de Versão:</strong>Github</li></p>
-    <p><strong><li>Editores de texto:</strong>Visual Studio Code</li></p>
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, inicial - scale=1.0">
+    <title>Currículo</title>
+  </head>
+  <body>
+    <h1>Julia Leite Omizzollo</h1>
+    <section>
+    <h2>Contato:</h2>
+        <strong>E-mail:</strong> julia.omizzollo@estudante.ifto.edu.br<br>
+        <strong>Telefone:</strong> +55 (63) 99273-1585<br>
+        <strong>GitHub:</strong> https://github.com/Juliaomizzollo<br>
+    </section>
+    <hr>
+    <article>
+    <em> Olá, busco oportunidades de estágio na área de desenvolvimento web para aplicar e expandir maus conhecimentos técnicos e habilidades de programação.</em></article>
+    <h2> Tecnologias Web:</h2>
+    <ol>
+    <li> Linguagens: HTML e CSS</li>
+    <li> Frameworks Front-End: React.js, Vue.js</li>  
+    <li> Ferramenta de Controle de Versão: GitHub</li>
+    <li> Editores de texto: Visual Studio Code</li>
+    <hr>
 </ol>
-</section>
-<section>
-    <h3>Idiomas</h3>
-
-
-    <p><li>Português (nativo)</li></p>
-    <p><li>Inglês (avançado)</li></p>
-    <p><li>Espanhol (básico)</li></p>
-</section>
-<section>
-    <h3>Projetos</h3>
-
-
-  <dl>
-<dt>Projeto Coleta Seletiva</dt>
+    <h2>Idiomas:</h2>
+    <ul>
+    <li>Português (nativo)</li>
+    <li>Inglês (avançado)</li>
+    <li>Espanhol (básico)</li>
+    <hr>
+</ul>
+    <h2>Projetos:</h2>
+<dl>
+    <dt>Projeto Coleta Seletiva</dt>
 <dd>Desenvolvimento de iniciativa de reciclagem, que visa diminuir os impactos do lixo eletrônico no meio ambiente. </dd>
 
 
@@ -52,15 +45,10 @@
 <dd>Projeto de extensão (realizado durante o ensino médio, na instituição IFTO Campus Paraíso) com foco no sistema GLPI e aplicação nas escolas municipais do município de Paraíso do Tocantins, com o objetivo de compartilhar conhecimento sobre tecnologia com servidores e implementação do sistema de forma eficiente e funcional.</dd>
 
 
-  </dl>
-</section>
+</dl>
 
 
 
 
-
-
-
-
-</section>
-</html>.
+  </body>
+</html>
