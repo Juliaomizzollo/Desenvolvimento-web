@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>coletaseletiva</title>
+  </head>
+  <body>
+    <h1>Coleta Seletiva</h1>
+    <p>Desenvolvimento de iniciativa de reciclagem, que visa diminuir os impactos do lixo eletrônico no meio ambiente.</p>
+    <img src="C:\Users\202310210004\Downloads\Projeto currículo\Imagens\imagem 4.jpg" alt="Minha foto" width="300">
+    
+    <a href="curriculo 2.html">Voltar para o Currículo</a> 
+  </body>
+</html>
